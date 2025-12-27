@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "I wanna see you",
+  "base_artist": "阿部真央",
+  "createdAt": "2025-12-27T11:30:05.556472Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I wanna see you",
+      "artist": "阿部真央",
+      "has_synced": true,
+      "path": "select/01_I_wanna_see_you_阿部真央.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Wanna See You Dead",
+      "artist": "Pitbullfarm",
+      "has_synced": false,
+      "path": "select/02_I_Wanna_See_You_Dead_Pitbullfarm.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Wanna See You Bleed",
+      "artist": "Flesh",
+      "has_synced": false,
+      "path": "select/03_I_Wanna_See_You_Bleed_Flesh.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Wanna See You Dance",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/04_I_Wanna_See_You_Dance_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Wanna See You Soon",
+      "artist": "Tavares",
+      "has_synced": true,
+      "path": "select/05_I_Wanna_See_You_Soon_Tavares.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Wanna See You Soon",
+      "artist": "Tavares",
+      "has_synced": true,
+      "path": "select/06_I_Wanna_See_You_Soon_Tavares.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Wanna See You Soon",
+      "artist": "Tavares",
+      "has_synced": true,
+      "path": "select/07_I_Wanna_See_You_Soon_Tavares.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Wanna See You Wallow",
+      "artist": "Melody Fall",
+      "has_synced": false,
+      "path": "select/08_I_Wanna_See_You_Wallow_Melody_Fall.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Wanna See You",
+      "artist": "Verse Simmonds",
+      "has_synced": true,
+      "path": "select/09_I_Wanna_See_You_Verse_Simmonds.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Wanna See You",
+      "artist": "Mao Abe",
+      "has_synced": true,
+      "path": "select/10_I_Wanna_See_You_Mao_Abe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I wanna see you",
+      "artist": "阿部 真央",
+      "has_synced": false,
+      "path": "select/pl_01_I_wanna_see_you_阿部_真央.txt"
+    }
+  ]
+}
