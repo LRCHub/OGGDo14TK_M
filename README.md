@@ -1,0 +1,57 @@
+# 阿部真央 – I wanna see you
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.09] I wanna see you
+[00:03.10] Hold me bady
+[00:04.78] Smile me baby
+[00:06.79] Say love me
+[00:12.29] 
+[00:24.26] ただ会いたくなった それだけで乗り込んだバス
+[00:31.54] この気持ちに理由なんてないのさ
+[00:37.89] 「急にどうしたの」って君は笑う
+[00:43.94] あぁそのたまらなく愛しい笑顔を 見たくなったんだ
+[00:55.94] 
+[00:53.61] I wanna see you
+[00:55.69] Hold me bady
+[00:57.46] Smile me baby
+[00:59.32] Say love me
+[01:01.23] I wanna see you
+[01:03.05] Kiss me bady
+[01:04.98] Call my name, oh
+[01:06.85] Say love me
+[01:12.35] 
+[01:24.09] 君はいつもユラユラ もどかしい態度ばかり
+[01:31.64] だから余計追いかけたくなるのさ
+[01:37.84] 「好きに決まってる」って君は笑う
+[01:43.89] あぁその言葉を疑うわけじゃないのさ ただ
+[01:53.89] 
+[01:53.69] I wanna see you
+[01:55.56] Hold me bady
+[01:57.44] 確かめるように
+[01:59.41] Say love me
+[02:01.13] I wanna see you
+[02:03.06] Kiss me bady
+[02:04.95] Call my name, oh
+[02:06.76] Say love me
+[02:12.26] 
+[02:08.00] 愛しい 愛しい でもひたすら 切ない
+[02:17.00] 
+[02:38.77] I wanna see you
+[02:40.50] Hold my hands, my shoulder...
+[02:44.49] Don't go away
+[02:46.27] I wanna kiss and hold you
+[02:49.19] Oh, my baby...
+[02:51.88] Cuz I love you
+[02:53.73] I wanna see you
+[02:55.52] Hold me baby
+[02:57.47] Smile me baby
+[02:59.37] Say love me
+[03:01.15] I wanna see you
+[03:03.06] Kiss me baby
+[03:04.92] Call my name, oh
+[03:06.97] Say love me
+[03:08.78] Don't go away
+[03:10.46] Cuz I love you
+```
